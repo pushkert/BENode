@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c475621-98df-4b1b-abf3-b0193af1f7ec" name="Default Changelist" comment="">
+    <list default="true" id="5c475621-98df-4b1b-abf3-b0193af1f7ec" name="Default Changelist" comment="add one more command in package json">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +37,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/pushkert/BENode" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1idp9vYVyNds7Tks4xucSUsVlAr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.8.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="13.13.25" />
@@ -41,12 +73,47 @@
       <option name="presentableId" value="Default" />
       <updated>1602247176182</updated>
       <workItem from="1602247178048" duration="589000" />
-      <workItem from="1602247842991" duration="38000" />
+      <workItem from="1602247842991" duration="426000" />
     </task>
+    <task id="LOCAL-00001" summary="add one more command in package json">
+      <created>1602247921964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602247921964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add one more command in package json" />
+    <option name="LAST_COMMIT_MESSAGE" value="add one more command in package json" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1657" height="294" key="GridCell.Tab.0.bottom" timestamp="1602247837644">
@@ -65,9 +132,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1657" height="294" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602247837643" />
-    <state x="504" y="247" width="672" height="677" key="run.anything.popup" timestamp="1602247248308">
+    <state x="439" y="262" key="Vcs.Push.Dialog.v2" timestamp="1602248205759">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="504" y="247" width="672" height="677" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1602247248308" />
+    <state x="439" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1602248205759" />
+    <state x="637" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602248197455">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="637" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1602248197455" />
+    <state x="504" y="247" width="672" height="677" key="run.anything.popup" timestamp="1602248220034">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="504" y="247" width="672" height="677" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1602248220034" />
   </component>
 </project>
